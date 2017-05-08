@@ -10,7 +10,8 @@
     "updates": "automatic",
     "visibility": "public",
     "id": "MQ==",
-    "update": "boot"
+    "update": "boot",
+    "version": "1.0.0"
   },
   
   "environment": {
