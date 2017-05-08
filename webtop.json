@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "name": "YouTube",
+    "description": "YouTube for the Webtop App",
+    "author": "R4nd0mP0t4to",
+    "repo": "https://github.com/webtop-app/youtube"
+  },
+  
+  "store": {
+    "updates": "automatic",
+    "visibility": "public",
+    "id": "MQ==",
+    "update": "boot"
+  },
+  
+  "environment": {
+    "sandbox": "automatic",
+    "frame": true,
+    "custom-frame": false,
+    "file-check": "boot"
+  },
+  
+  "deck": {
+    "icon": "play",
+    "color": "red",
+    "show-mini": true,
+    "show-store-state": true
+  },
+  
+  "events": {
+    "launch": {
+      "file": "index.html"
+    }
+  },
+  
+  "file-hashes": {
+    "index.html": "<md5 hash>"
+  }
+}
